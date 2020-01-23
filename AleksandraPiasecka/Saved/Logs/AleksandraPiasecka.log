@@ -734,3 +734,989 @@ LogInit: Object subsystem initialized
 [2020.01.23-16.16.23:509][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.208
 [2020.01.23-16.16.23:509][604]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
 [2020.01.23-16.18.00:432][135]LogSlate: Window 'Level01* - Level Blueprint Editor' being destroyed
+[2020.01.23-16.26.13:051][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-16.26.20:222][290]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2020.01.23-16.26.55:766][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.27.26:423][178]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-16.27.53:133][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.27.53:226][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-16.27.53:435][753]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto4AE1148BB45008652DB46EB9EECD02677.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto4.umap'
+[2020.01.23-16.27.53:440][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.249
+[2020.01.23-16.27.53:440][753]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2020.01.23-16.29.30:232][252]Cmd: TRANSACTION UNDO
+[2020.01.23-16.29.30:232][252]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.30.39:135][381]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.30.39:551][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.30.43:608][622]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.31.14:462][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.18:718][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.19:112][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.19:171][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.21:096][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.22:665][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.23:102][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.24:568][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.31.28:454][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.32.17:937][216]Cmd: MODE GRID=0
+[2020.01.23-16.32.21:062][381]Cmd: MODE GRID=1
+[2020.01.23-16.32.28:723][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.32.52:563][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.33.57:652][152]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.34.10:271][907]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.34.17:350][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.34.38:972][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-16.34.41:808][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-16.34.47:255][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-16.34.54:030][484]Cmd: TRANSACTION UNDO
+[2020.01.23-16.34.54:030][484]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.34.57:419][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.36.03:854][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.36.05:677][687]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-16.36.17:974][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.36.59:516][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.38.02:610][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.38.02:675][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-16.38.02:865][651]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto55247589543C8CE76608FDC94CFFDA2E7.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto5.umap'
+[2020.01.23-16.38.02:871][651]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.228
+[2020.01.23-16.38.02:871][651]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2020.01.23-16.38.19:003][612]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.38.25:607][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.38.51:377][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.39.18:784][156]Cmd: TRANSACTION UNDO
+[2020.01.23-16.39.18:784][156]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.39.38:173][312]Cmd: TRANSACTION UNDO
+[2020.01.23-16.39.38:173][312]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.39.38:179][312]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.01.23-16.39.38:179][312]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.01.23-16.39.38:179][312]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-16.39.46:357][796]Cmd: TRANSACTION UNDO
+[2020.01.23-16.39.46:357][796]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.39.46:363][796]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2020.01.23-16.39.46:363][796]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.01.23-16.39.46:363][796]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-16.40.34:149][643]Cmd: TRANSACTION UNDO
+[2020.01.23-16.40.34:149][643]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.40.34:830][682]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.40.41:199][ 57]Cmd: TRANSACTION UNDO
+[2020.01.23-16.40.41:199][ 57]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.41.15:947][118]Cmd: TRANSACTION UNDO
+[2020.01.23-16.41.15:947][118]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.41.15:953][118]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2020.01.23-16.41.15:953][118]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.01.23-16.41.15:953][118]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.01.23-16.41.15:953][118]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-16.41.24:282][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.41.24:398][619]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-16.41.24:417][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-16.41.24:417][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-16.41.24:417][619]PIE: New page: PIE session: Level01 (23 sty 2020, 18:41:24)
+[2020.01.23-16.41.24:417][619]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-16.41.24:423][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005877s)
+[2020.01.23-16.41.24:424][619]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-16.41.24:424][619]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2020.01.23-16.41.24:424][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.007290s)
+[2020.01.23-16.41.24:461][619]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-16.41.24:479][619]LogInit: FAudioDevice initialized.
+[2020.01.23-16.41.24:511][619]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-16.41.24:512][619]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-17.41.24
+[2020.01.23-16.41.24:513][619]LogWorld: Bringing up level for play took: 0.000840
+[2020.01.23-16.41.24:528][619]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0,558
+[2020.01.23-16.41.24:528][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-16.41.28:315][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-16.41.28:315][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-16.41.28:355][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-16.41.28:356][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-16.41.28:386][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-16.41.28:425][846]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.23-16.48.07:387][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-16.48.07:593][961]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto6ACDE153F4058E4D494149395FD6D2BBB.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto6.umap'
+[2020.01.23-16.48.07:598][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.236
+[2020.01.23-16.48.07:598][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.236
+[2020.01.23-16.50.23:322][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.19:634][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.02:690][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.10:949][240]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-17.59.44:881][212]Cmd: TRANSACTION UNDO
+[2020.01.23-17.59.44:881][212]LogEditorTransaction: Undo Create Actors
+[2020.01.23-17.59.44:883][212]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-17.59.44:883][212]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-17.59.44:883][212]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-17.59.44:883][212]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_121' invalid (44 verts, 0 indices).
+[2020.01.23-17.59.44:883][212]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_121.BodySetup_0 when we are unable to.
+[2020.01.23-17.59.45:826][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.47:834][369]Cmd: TRANSACTION UNDO
+[2020.01.23-17.59.47:834][369]LogEditorTransaction: Undo Create Actors
+[2020.01.23-17.59.47:835][369]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-17.59.47:835][369]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-17.59.47:835][369]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-17.59.47:835][369]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_121' invalid (44 verts, 0 indices).
+[2020.01.23-17.59.47:835][369]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_121.BodySetup_0 when we are unable to.
+[2020.01.23-17.59.56:294][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.00.00:191][ 74]Cmd: TRANSACTION UNDO
+[2020.01.23-18.00.00:191][ 74]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.00.00:192][ 74]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-18.00.00:192][ 74]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-18.00.00:192][ 74]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-18.00.00:192][ 74]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_121' invalid (44 verts, 0 indices).
+[2020.01.23-18.00.00:192][ 74]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_121.BodySetup_0 when we are unable to.
+[2020.01.23-18.00.02:117][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.00.05:978][395]Cmd: TRANSACTION UNDO
+[2020.01.23-18.00.05:978][395]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.00.05:979][395]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-18.00.05:979][395]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-18.00.05:979][395]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_121, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-18.00.05:979][395]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_121' invalid (44 verts, 0 indices).
+[2020.01.23-18.00.05:979][395]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_121.BodySetup_0 when we are unable to.
+[2020.01.23-18.00.08:563][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.00.34:811][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-18.00.35:019][821]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto71B1C64704C4287429BB4DD8D12DE9A9B.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto7.umap'
+[2020.01.23-18.00.35:028][821]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.252
+[2020.01.23-18.00.35:028][821]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.252
+[2020.01.23-18.01.30:416][993]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.01.33:845][195]Cmd: TRANSACTION UNDO
+[2020.01.23-18.01.33:845][195]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.01.35:060][266]Cmd: TRANSACTION UNDO
+[2020.01.23-18.01.35:060][266]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.01.37:637][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.01.44:377][787]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.01.45:872][875]Cmd: TRANSACTION UNDO
+[2020.01.23-18.01.45:872][875]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.01.47:233][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.01.49:641][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.01.53:536][318]Cmd: TRANSACTION UNDO
+[2020.01.23-18.01.53:536][318]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.01.54:604][380]Cmd: TRANSACTION UNDO
+[2020.01.23-18.01.54:604][380]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.01.56:859][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.02:189][782]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.02.05:698][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.05:814][997]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.02.05:833][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.05:833][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.02.05:833][997]PIE: New page: PIE session: Level01 (23 sty 2020, 20:02:05)
+[2020.01.23-18.02.05:834][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.02.05:838][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004653s)
+[2020.01.23-18.02.05:839][997]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.02.05:839][997]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.01.23-18.02.05:839][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.005975s)
+[2020.01.23-18.02.05:876][997]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.02.05:895][997]LogInit: FAudioDevice initialized.
+[2020.01.23-18.02.05:931][997]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.02.05:934][997]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.02.05
+[2020.01.23-18.02.05:934][997]LogWorld: Bringing up level for play took: 0.001927
+[2020.01.23-18.02.05:950][997]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0,865
+[2020.01.23-18.02.05:951][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.08:897][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.08:897][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.02.08:932][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.02.08:932][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.08:963][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.02.09:008][175]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.23-18.02.16:316][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.18:579][709]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.18:579][709]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-18.02.19:138][740]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.19:138][740]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.02.19:497][760]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.19:497][760]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.02.19:853][780]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.19:853][780]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.02.22:389][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.02.23:184][975]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.23:184][975]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.02.23:616][999]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.23:616][999]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.02.25:032][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.26:812][171]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.02.27:607][217]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.27:607][217]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.02.29:332][318]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.29:332][318]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.02.31:161][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.37:514][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.02.39:613][899]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.39:613][899]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.02.41:940][ 36]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.41:940][ 36]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.02.44:648][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.51:789][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.02.52:666][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.52:813][653]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.02.52:832][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.52:832][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.02.52:832][653]PIE: New page: PIE session: Level01 (23 sty 2020, 20:02:52)
+[2020.01.23-18.02.52:832][653]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.02.52:836][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004084s)
+[2020.01.23-18.02.52:837][653]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.02.52:837][653]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2020.01.23-18.02.52:837][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.004911s)
+[2020.01.23-18.02.52:870][653]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.02.52:887][653]LogInit: FAudioDevice initialized.
+[2020.01.23-18.02.52:924][653]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.02.52:926][653]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.02.52
+[2020.01.23-18.02.52:926][653]LogWorld: Bringing up level for play took: 0.000838
+[2020.01.23-18.02.52:941][653]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0,144
+[2020.01.23-18.02.52:942][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.54:287][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.54:287][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.02.54:323][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.02.54:323][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.02.54:355][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.02.54:390][733]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.23-18.02.58:342][970]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.58:342][970]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.02.58:711][990]Cmd: TRANSACTION UNDO
+[2020.01.23-18.02.58:711][990]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.03.08:030][542]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.03.14:411][921]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-18.03.17:350][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.03.19:967][250]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.03.22:815][417]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.03.46:707][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.03.49:447][  3]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-18.04.40:600][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.04.51:342][697]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.05.04:265][467]Cmd: TRANSACTION UNDO
+[2020.01.23-18.05.04:265][467]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.05.22:573][553]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.05.34:172][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.05.43:363][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.05.51:228][256]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.06.00:893][829]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.06.24:138][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.06.33:836][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.08.01:022][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.08.25:338][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.08.52:057][ 34]LogEditorViewport: Clicking Background
+[2020.01.23-18.08.55:004][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.08.55:728][251]LogEditorViewport: Clicking Background
+[2020.01.23-18.09.00:461][535]LogEditorViewport: Clicking Background
+[2020.01.23-18.09.02:078][632]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.01.23-18.09.19:496][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.09.31:929][417]LogEditorViewport: Clicking Background
+[2020.01.23-18.09.34:191][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.09.48:416][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.10.01:983][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.10.11:923][769]Cmd: TRANSACTION UNDO
+[2020.01.23-18.10.11:923][769]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-18.10.12:340][792]Cmd: TRANSACTION UNDO
+[2020.01.23-18.10.12:340][792]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-18.10.37:603][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-18.10.44:659][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.10.46:875][840]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.10.46:893][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.10.46:893][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.10.46:893][840]PIE: New page: PIE session: Level01 (23 sty 2020, 20:10:46)
+[2020.01.23-18.10.46:893][840]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.10.46:899][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005685s)
+[2020.01.23-18.10.46:900][840]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.10.46:900][840]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2020.01.23-18.10.46:900][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.006696s)
+[2020.01.23-18.10.46:937][840]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.10.46:956][840]LogInit: FAudioDevice initialized.
+[2020.01.23-18.10.46:988][840]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.10.46:989][840]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.10.46
+[2020.01.23-18.10.46:990][840]LogWorld: Bringing up level for play took: 0.000783
+[2020.01.23-18.10.47:003][840]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0,083
+[2020.01.23-18.10.47:003][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.10.52:321][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.10.52:322][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.10.52:361][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.10.52:361][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.10.52:413][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.10.52:431][159]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.23-18.11.26:626][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.11.26:678][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-18.11.26:902][205]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto8F75862A6498277DC99F7A69CBCC8632F.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto8.umap'
+[2020.01.23-18.11.26:906][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.259
+[2020.01.23-18.11.26:907][205]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.259
+[2020.01.23-18.11.39:635][968]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.14.01:464][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.14.02:647][404]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.14.14:326][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.14.40:559][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.15.03:796][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.15.24:464][240]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-18.15.24:464][240]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.15.28:540][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.15.36:448][950]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-18.15.36:448][950]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.15.43:999][397]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.15.45:799][503]Cmd: TRANSACTION UNDO
+[2020.01.23-18.15.45:799][503]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.15.46:406][538]Cmd: TRANSACTION UNDO
+[2020.01.23-18.15.46:406][538]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.15.46:414][538]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-18.15.46:414][538]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2020.01.23-18.15.46:414][538]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.15.53:998][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.15.56:992][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.15.58:377][246]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.16.04:760][625]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-18.16.08:269][813]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-18.16.09:261][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.16.09:444][883]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.16.09:464][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.09:464][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.16.09:464][883]PIE: New page: PIE session: Level01 (23 sty 2020, 20:16:09)
+[2020.01.23-18.16.09:464][883]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.16.09:470][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005844s)
+[2020.01.23-18.16.09:470][883]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.16.09:471][883]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2020.01.23-18.16.09:471][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.006868s)
+[2020.01.23-18.16.09:506][883]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.16.09:524][883]LogInit: FAudioDevice initialized.
+[2020.01.23-18.16.09:559][883]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.16.09:561][883]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.16.09
+[2020.01.23-18.16.09:561][883]LogWorld: Bringing up level for play took: 0.000758
+[2020.01.23-18.16.09:575][883]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0,49
+[2020.01.23-18.16.09:575][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.13:095][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.13:095][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.16.13:131][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.16.13:131][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.13:164][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.16.13:208][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.23-18.16.14:874][196]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-18.16.21:303][578]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-18.16.22:860][670]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-18.16.23:648][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.16.23:831][727]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.16.23:848][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.23:848][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.16.23:848][727]PIE: New page: PIE session: Level01 (23 sty 2020, 20:16:23)
+[2020.01.23-18.16.23:848][727]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.16.23:854][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005364s)
+[2020.01.23-18.16.23:854][727]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.16.23:854][727]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2020.01.23-18.16.23:854][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.006144s)
+[2020.01.23-18.16.23:887][727]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.16.23:905][727]LogInit: FAudioDevice initialized.
+[2020.01.23-18.16.23:940][727]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.16.23:941][727]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.16.23
+[2020.01.23-18.16.23:942][727]LogWorld: Bringing up level for play took: 0.000716
+[2020.01.23-18.16.23:955][727]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0,869
+[2020.01.23-18.16.23:955][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.27:419][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.27:419][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.16.27:456][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.16.27:456][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.16.27:504][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.16.27:522][935]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.23-18.16.29:525][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.17.17:126][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.17.21:818][184]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-18.17.26:815][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.17.34:496][935]Cmd: TRANSACTION UNDO
+[2020.01.23-18.17.34:496][935]LogEditorTransaction: Undo Set Location
+[2020.01.23-18.17.55:287][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.18.44:952][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.18.58:477][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.19.01:921][137]Cmd: TRANSACTION UNDO
+[2020.01.23-18.19.01:921][137]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.19.01:930][137]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2020.01.23-18.19.01:931][137]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2020.01.23-18.19.15:662][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.19.33:862][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.19.56:784][382]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2020.01.23-18.20.01:920][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.20.37:895][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.20.55:326][851]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.21.07:657][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.21.16:371][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.21.17:539][168]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.21.50:557][126]Cmd: DELETE
+[2020.01.23-18.21.50:557][126]Cmd: ACTOR DELETE
+[2020.01.23-18.21.50:920][126]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-18.21.50:992][126]LogEditorActor: Deleted 1 Actors (0.435 secs)
+[2020.01.23-18.22.35:742][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.22.45:353][358]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.23.03:096][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.23.03:262][427]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.23.03:280][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.23.03:280][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.23.03:280][427]PIE: New page: PIE session: Level01 (23 sty 2020, 20:23:03)
+[2020.01.23-18.23.03:280][427]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.23.03:288][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007968s)
+[2020.01.23-18.23.03:289][427]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.23.03:289][427]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2020.01.23-18.23.03:289][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.009021s)
+[2020.01.23-18.23.03:325][427]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.23.03:344][427]LogInit: FAudioDevice initialized.
+[2020.01.23-18.23.03:378][427]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.23.03:381][427]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.23.03
+[2020.01.23-18.23.03:381][427]LogWorld: Bringing up level for play took: 0.001715
+[2020.01.23-18.23.03:396][427]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0,311
+[2020.01.23-18.23.03:396][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.23.05:726][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.23.05:726][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.23.05:768][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.23.05:768][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.23.05:819][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.23.05:830][565]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.23-18.24.08:494][307]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.24.51:314][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.25.47:672][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.25.47:724][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-18.25.48:033][200]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto935D90AB942CF9E87D0EE0D9EC8B241A9.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto9.umap'
+[2020.01.23-18.25.48:039][200]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.346
+[2020.01.23-18.25.48:039][200]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.346
+[2020.01.23-18.26.27:984][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.28.26:927][119]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.28.26:947][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.28.26:947][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.28.26:947][119]PIE: New page: PIE session: Level01 (23 sty 2020, 20:28:26)
+[2020.01.23-18.28.26:947][119]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.28.26:955][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008275s)
+[2020.01.23-18.28.26:956][119]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.28.26:956][119]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2020.01.23-18.28.26:956][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.009371s)
+[2020.01.23-18.28.26:991][119]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.28.27:009][119]LogInit: FAudioDevice initialized.
+[2020.01.23-18.28.27:040][119]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.28.27:042][119]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.28.27
+[2020.01.23-18.28.27:042][119]LogWorld: Bringing up level for play took: 0.000977
+[2020.01.23-18.28.27:054][119]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0,031
+[2020.01.23-18.28.27:055][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.28.31:683][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.28.31:683][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.28.31:725][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.28.31:725][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.28.31:757][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.28.31:785][397]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.23-18.29.21:747][370]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-18.29.21:748][370]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.29.24:147][511]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.29.42:217][574]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.30.00:431][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.30.33:669][645]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.30.33:688][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.30.33:688][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.30.33:688][645]PIE: New page: PIE session: Level01 (23 sty 2020, 20:30:33)
+[2020.01.23-18.30.33:688][645]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.30.33:696][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007867s)
+[2020.01.23-18.30.33:697][645]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.30.33:697][645]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2020.01.23-18.30.33:697][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.008791s)
+[2020.01.23-18.30.33:732][645]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.30.33:750][645]LogInit: FAudioDevice initialized.
+[2020.01.23-18.30.33:766][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.30.33:894][645]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.30.33:896][645]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.30.33
+[2020.01.23-18.30.33:896][645]LogWorld: Bringing up level for play took: 0.000991
+[2020.01.23-18.30.33:910][645]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0,825
+[2020.01.23-18.30.33:919][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.30.42:810][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.30.43:134][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.30.43:152][175]LogSlate: Window 'AleksandraPiasecka Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.23-18.30.43:193][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.30.43:193][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.30.43:252][176]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.01.23-18.32.24:991][235]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.32.27:432][378]Cmd: TRANSACTION UNDO
+[2020.01.23-18.32.27:432][378]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.32.43:886][358]LogGeometryMode: Warning: Unable to find BoxBrush13 Brush(s) in new BSP
+[2020.01.23-18.32.43:886][358]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.36.48:537][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.36.59:322][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.37.04:321][677]Cmd: TRANSACTION UNDO
+[2020.01.23-18.37.04:321][677]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.37.06:809][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.37.58:174][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.38.07:541][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.38.51:499][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.39.04:920][843]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.39.32:715][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.40.43:564][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.40.52:469][238]LogGeometryMode: Warning: Unable to find BoxBrush14_17 Brush(s) in new BSP
+[2020.01.23-18.40.52:469][238]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.41.02:024][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.41.08:081][170]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.41.09:194][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.41.09:344][243]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.41.09:361][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.41.09:361][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.41.09:361][243]PIE: New page: PIE session: Level01 (23 sty 2020, 20:41:09)
+[2020.01.23-18.41.09:362][243]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.41.09:370][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008626s)
+[2020.01.23-18.41.09:371][243]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.41.09:371][243]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2020.01.23-18.41.09:371][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.009854s)
+[2020.01.23-18.41.09:407][243]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.41.09:427][243]LogInit: FAudioDevice initialized.
+[2020.01.23-18.41.09:459][243]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.41.09:461][243]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.41.09
+[2020.01.23-18.41.09:461][243]LogWorld: Bringing up level for play took: 0.000883
+[2020.01.23-18.41.09:474][243]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0,389
+[2020.01.23-18.41.09:475][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.41.12:125][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.41.12:125][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.41.12:158][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.41.12:158][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.41.12:191][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.41.12:235][403]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.23-18.41.28:894][395]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush18)
+[2020.01.23-18.41.37:887][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.42.02:999][407]LogGeometryMode: Warning: Unable to find BoxBrush18 Brush(s) in new BSP
+[2020.01.23-18.42.03:000][407]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.42.20:032][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.43.33:765][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.43.33:808][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-18.43.34:180][802]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto0609D60EC444A0E32A234C7BED753EE2F.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto0.umap'
+[2020.01.23-18.43.34:186][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.406
+[2020.01.23-18.43.34:186][802]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.406
+[2020.01.23-18.43.59:916][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.44.04:057][572]Cmd: TRANSACTION UNDO
+[2020.01.23-18.44.04:057][572]LogEditorTransaction: Undo Set Location
+[2020.01.23-18.44.04:070][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2020.01.23-18.44.04:072][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2020.01.23-18.44.15:244][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.44.16:902][333]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.45.58:146][353]Cmd: TRANSACTION UNDO
+[2020.01.23-18.45.58:146][353]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.46.22:657][800]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.46.41:411][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.46.47:230][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.46.50:939][452]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.46.54:123][641]Cmd: TRANSACTION UNDO
+[2020.01.23-18.46.54:123][641]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.46.55:282][708]Cmd: TRANSACTION UNDO
+[2020.01.23-18.46.55:282][708]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.46.57:365][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.47.10:310][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.47.13:672][775]Cmd: TRANSACTION UNDO
+[2020.01.23-18.47.13:672][775]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.47.14:202][805]Cmd: TRANSACTION UNDO
+[2020.01.23-18.47.14:202][805]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.47.58:824][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.48.07:584][996]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.48.11:647][237]Cmd: TRANSACTION UNDO
+[2020.01.23-18.48.11:647][237]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.48.12:045][258]Cmd: TRANSACTION UNDO
+[2020.01.23-18.48.12:045][258]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.48.12:869][305]Cmd: TRANSACTION UNDO
+[2020.01.23-18.48.12:869][305]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-18.48.19:199][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.48.21:635][796]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.48.22:715][860]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.48.26:439][ 82]Cmd: TRANSACTION UNDO
+[2020.01.23-18.48.26:439][ 82]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.48.27:104][121]Cmd: TRANSACTION UNDO
+[2020.01.23-18.48.27:104][121]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.48.27:656][154]Cmd: TRANSACTION UNDO
+[2020.01.23-18.48.27:656][154]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 13
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 14
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 15
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 16
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 17
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 18
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 19
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 20
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 21
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 22
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 23
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 24
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 25
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 26
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_830' invalid (720 verts, 0 indices).
+[2020.01.23-18.48.27:659][154]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_830.BodySetup_0 when we are unable to.
+[2020.01.23-18.48.28:724][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.48.36:213][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.48.36:379][675]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-18.48.36:402][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.48.36:402][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-18.48.36:402][675]PIE: New page: PIE session: Level01 (23 sty 2020, 20:48:36)
+[2020.01.23-18.48.36:403][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-18.48.36:412][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009578s)
+[2020.01.23-18.48.36:413][675]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-18.48.36:413][675]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2020.01.23-18.48.36:413][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.010813s)
+[2020.01.23-18.48.36:459][675]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-18.48.36:482][675]LogInit: FAudioDevice initialized.
+[2020.01.23-18.48.36:515][675]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-18.48.36:517][675]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-19.48.36
+[2020.01.23-18.48.36:517][675]LogWorld: Bringing up level for play took: 0.001101
+[2020.01.23-18.48.36:531][675]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0,554
+[2020.01.23-18.48.36:531][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.48.44:980][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.48.44:980][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.48.45:017][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.48.45:017][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-18.48.45:057][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.48.45:086][181]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.23-18.48.56:333][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.48.57:991][953]Cmd: TRANSACTION UNDO
+[2020.01.23-18.48.57:991][953]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.01.23-18.48.57:992][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 13
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 14
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 15
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 16
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 17
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 18
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 19
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 20
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 21
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 22
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 23
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 24
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 25
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 26
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 27
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_829, Buffer: 0, Buffer Size: 0, Element: 28
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_829' invalid (720 verts, 0 indices).
+[2020.01.23-18.48.57:993][953]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_829.BodySetup_0 when we are unable to.
+[2020.01.23-18.49.00:287][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.49.02:522][215]Cmd: TRANSACTION UNDO
+[2020.01.23-18.49.02:522][215]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.01.23-18.49.02:524][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 13
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 14
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 15
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 16
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 17
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 18
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 19
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 20
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_831, Buffer: 0, Buffer Size: 0, Element: 21
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_831' invalid (720 verts, 0 indices).
+[2020.01.23-18.49.02:525][215]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_831.BodySetup_0 when we are unable to.
+[2020.01.23-18.49.03:334][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.49.05:830][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.49.07:899][528]Cmd: TRANSACTION UNDO
+[2020.01.23-18.49.07:899][528]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.49.08:325][550]Cmd: TRANSACTION UNDO
+[2020.01.23-18.49.08:325][550]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.49.10:232][662]Cmd: TRANSACTION UNDO
+[2020.01.23-18.49.10:232][662]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-18.49.11:517][739]Cmd: TRANSACTION UNDO
+[2020.01.23-18.49.11:517][739]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.49.14:277][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.49.17:678][104]Cmd: TRANSACTION UNDO
+[2020.01.23-18.49.17:678][104]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 13
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 14
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 15
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 16
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 17
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 18
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 19
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 20
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 21
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 22
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 23
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 24
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 25
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 26
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_830' invalid (720 verts, 0 indices).
+[2020.01.23-18.49.17:681][104]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_830.BodySetup_0 when we are unable to.
+[2020.01.23-18.49.18:824][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.49.20:797][288]Cmd: TRANSACTION UNDO
+[2020.01.23-18.49.20:797][288]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.01.23-18.49.20:799][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 13
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 14
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 15
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 16
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 17
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 18
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 19
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 20
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 21
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 22
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 23
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 24
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 25
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Level01.Level01:PersistentLevel.ModelComponent_830, Buffer: 0, Buffer Size: 0, Element: 26
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level01.Level01:PersistentLevel.ModelComponent_830' invalid (720 verts, 0 indices).
+[2020.01.23-18.49.20:800][288]LogPhysics: Warning: Attempt to build physics data for /Game/Level01.Level01:PersistentLevel.ModelComponent_830.BodySetup_0 when we are unable to.
+[2020.01.23-18.49.22:764][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.49.59:334][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.51.00:314][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.51.04:263][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.51.08:085][640]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush20)
+[2020.01.23-18.51.09:869][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.51.18:183][232]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.51.28:249][819]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.51.42:920][678]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.52.04:194][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.52.11:629][364]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.52.27:177][279]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.52.35:209][749]Cmd: TRANSACTION UNDO
+[2020.01.23-18.52.35:209][749]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-18.52.51:003][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.53.14:750][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.53.23:597][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.53.25:600][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.53.28:809][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.53.32:926][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.53.38:439][158]LogSlate: Window 'Save Asset As' being destroyed
+[2020.01.23-18.53.40:869][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.53.43:710][304]LogSlate: Window 'Save Asset As' being destroyed
+[2020.01.23-18.53.46:854][491]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.46:855][491]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-18.53.47:134][506]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.47:134][506]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-18.53.47:365][518]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.47:365][518]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-18.53.47:823][544]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.47:824][544]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.53.48:177][564]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.48:178][564]LogEditorTransaction: Undo Create Actors
+[2020.01.23-18.53.48:528][584]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.48:528][584]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-18.53.48:927][607]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.48:927][607]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.53.49:275][627]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.49:275][627]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.53.49:291][627]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2020.01.23-18.53.49:817][657]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.49:817][657]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-18.53.50:212][679]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.50:212][679]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2020.01.23-18.53.50:590][700]Cmd: TRANSACTION UNDO
+[2020.01.23-18.53.50:590][700]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2020.01.23-18.53.52:500][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.54.12:582][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.54.17:385][283]Cmd: TRANSACTION UNDO
+[2020.01.23-18.54.17:385][283]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.54.48:670][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-18.54.49:085][941]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_Auto17D1A87F94F850A7EB0E56E9482235517.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Autosaves/Game/Level01_Auto1.umap'
+[2020.01.23-18.54.49:091][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.451
+[2020.01.23-18.54.49:091][941]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.451
+[2020.01.23-18.55.31:982][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.56.23:946][148]LogGeometryMode: Warning: Unable to find BoxBrush13 Brush(s) in new BSP
+[2020.01.23-18.56.23:946][148]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-18.56.33:851][735]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.56.38:675][ 22]Cmd: TRANSACTION UNDO
+[2020.01.23-18.56.38:675][ 22]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-18.56.39:548][ 73]Cmd: TRANSACTION UNDO
+[2020.01.23-18.56.39:548][ 73]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.56.39:569][ 73]LogActorComponent: RegisterComponentWithWorld: (/Game/Level01.Level01:PersistentLevel.BoxBrush13_29.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.23-18.57.03:195][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.57.35:961][425]Cmd: TRANSACTION UNDO
+[2020.01.23-18.57.35:961][425]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.57.53:985][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.57.55:438][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.57.56:435][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.57.59:447][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-18.57.59:885][624]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01E4CF9B5A42C1A3A0CC5E16895AE9E24C.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01.umap'
+[2020.01.23-18.57.59:939][624]LogFileHelpers: Saving map 'Level01' took 3.485
+[2020.01.23-18.58.09:460][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.58.20:184][816]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.58.23:222][993]Cmd: TRANSACTION UNDO
+[2020.01.23-18.58.23:222][993]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.58.25:115][101]Cmd: TRANSACTION UNDO
+[2020.01.23-18.58.25:115][101]LogEditorTransaction: Undo Move Actors
+[2020.01.23-18.59.02:606][328]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.59.25:546][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-18.59.47:270][967]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.00.09:229][276]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.00.30:442][532]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.00.56:894][100]Cmd: TRANSACTION UNDO
+[2020.01.23-19.00.56:894][100]LogEditorTransaction: Undo Move Actors
+[2020.01.23-19.00.56:911][100]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2020.01.23-19.01.20:746][510]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.01.28:297][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.01.35:388][370]Cmd: TRANSACTION UNDO
+[2020.01.23-19.01.35:388][370]LogEditorTransaction: Undo Move Actors
+[2020.01.23-19.01.50:881][288]Cmd: TRANSACTION UNDO
+[2020.01.23-19.01.50:881][288]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-19.01.53:916][464]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-19.01.53:916][464]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-19.01.55:859][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.02.13:329][608]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.02.38:422][ 88]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.03.01:923][474]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.03.09:748][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.03.44:384][986]Cmd: TRANSACTION UNDO
+[2020.01.23-19.03.44:384][986]LogEditorTransaction: Undo Move Actors
+[2020.01.23-19.03.51:267][393]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.04.25:920][435]LogGeometryMode: Warning: Unable to find BoxBrush16 Brush(s) in new BSP
+[2020.01.23-19.04.25:920][435]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-19.04.44:138][504]Cmd: TRANSACTION UNDO
+[2020.01.23-19.04.44:138][504]LogEditorTransaction: Undo Move Actors
+[2020.01.23-19.04.44:162][504]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-19.04.44:162][504]LogGeometryMode: Warning: Unable to resolve BoxBrush29 Brush in new BSP, see above
+[2020.01.23-19.04.44:162][504]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-19.04.46:716][652]LogGeometryMode: Warning: Unable to find BoxBrush15 Brush(s) in new BSP
+[2020.01.23-19.04.46:716][652]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-19.04.52:532][988]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-19.04.52:532][988]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-19.05.18:400][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.05.39:363][789]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.05.40:510][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.05.40:659][865]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-19.05.40:678][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.05.40:679][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-19.05.40:679][865]PIE: New page: PIE session: Level01 (23 sty 2020, 21:05:40)
+[2020.01.23-19.05.40:679][865]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-19.05.40:689][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010284s)
+[2020.01.23-19.05.40:690][865]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-19.05.40:690][865]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2020.01.23-19.05.40:690][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.011405s)
+[2020.01.23-19.05.40:743][865]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-19.05.40:762][865]LogInit: FAudioDevice initialized.
+[2020.01.23-19.05.40:792][865]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-19.05.40:795][865]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-20.05.40
+[2020.01.23-19.05.40:795][865]LogWorld: Bringing up level for play took: 0.001114
+[2020.01.23-19.05.40:809][865]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0,277
+[2020.01.23-19.05.40:809][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.05.45:792][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.05.45:792][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-19.05.45:835][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-19.05.45:835][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.05.45:868][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-19.05.45:910][165]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.01.23-19.05.55:640][741]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.06.01:434][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-19.06.02:809][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-19.06.02:922][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-19.06.03:215][162]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level015F2207A549010137B036BB804835BA47.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01.umap'
+[2020.01.23-19.06.03:254][162]LogFileHelpers: Saving map 'Level01' took 0.426
+[2020.01.23-19.06.28:988][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.07.00:315][852]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-19.07.03:083][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.08.07:678][733]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.15:649][207]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.21:083][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.30:094][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.30:806][100]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.31:425][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-19.08.32:631][204]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.39:434][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-19.08.46:974][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.50:542][261]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.51:603][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.08.57:002][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.09.11:505][504]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.09.19:191][959]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.09.19:890][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.09.21:519][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-19.09.23:724][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-19.09.27:113][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.09.31:574][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.09.35:576][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.09.35:725][937]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-19.09.35:746][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.09.35:746][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-19.09.35:746][937]PIE: New page: PIE session: Level01 (23 sty 2020, 21:09:35)
+[2020.01.23-19.09.35:747][937]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2020.01.23-19.09.35:758][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011541s)
+[2020.01.23-19.09.35:759][937]LogAIModule: Creating AISystem for world Level01
+[2020.01.23-19.09.35:760][937]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2020.01.23-19.09.35:760][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.013228s)
+[2020.01.23-19.09.35:799][937]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-19.09.35:817][937]LogInit: FAudioDevice initialized.
+[2020.01.23-19.09.35:850][937]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-19.09.35:852][937]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2020.01.23-20.09.35
+[2020.01.23-19.09.35:852][937]LogWorld: Bringing up level for play took: 0.001103
+[2020.01.23-19.09.35:865][937]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0,78
+[2020.01.23-19.09.35:865][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.09.38:795][111]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.09.38:795][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-19.09.38:835][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-19.09.38:835][111]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2020.01.23-19.09.38:867][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-19.09.38:913][113]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.01.23-19.10.04:684][643]Cmd: TRANSACTION UNDO
+[2020.01.23-19.10.04:684][643]LogEditorTransaction: Undo Move Actors
+[2020.01.23-19.10.04:701][643]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2020.01.23-19.10.04:703][643]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2020.01.23-19.10.04:704][643]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush14_17.BrushComponent0) Component already registered.
+[2020.01.23-19.10.04:705][643]LogActorComponent: ~FComponentReregisterContext: (/Game/Level01.Level01:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2020.01.23-19.10.05:970][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.10.15:126][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.11.01:891][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.11.08:561][402]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-19.11.16:489][874]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.11.17:745][947]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.11.18:451][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.11.19:064][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-19.11.41:285][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-19.11.42:245][402]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.11.46:084][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.11.47:886][735]Cmd: TRANSACTION UNDO
+[2020.01.23-19.11.47:886][735]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-19.11.49:970][858]Cmd: TRANSACTION UNDO
+[2020.01.23-19.11.49:970][858]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-19.11.51:185][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.11.59:617][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.12.02:474][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.12.22:837][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.12.23:616][114]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.12.24:426][162]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.12.26:220][269]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.12.33:917][720]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.12.35:228][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-19.12.41:388][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-19.12.41:603][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.23-19.12.41:921][175]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level0122268A7043B5A08D0049AA948AF617CF.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01.umap'
+[2020.01.23-19.12.41:964][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01_BuiltData" FILE="C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01_BuiltData.uasset" SILENT=true
+[2020.01.23-19.12.42:338][175]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Saved/Level01_BuiltData7CB20F144D3E34610E9AAF9E4DD7BADD.tmp' to 'C:/Users/Aleks/Documents/Unreal/AleksandraPiasecka/Content/Level01_BuiltData.uasset'
+[2020.01.23-19.12.44:821][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-19.14.32:351][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-19.14.36:927][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
